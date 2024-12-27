@@ -12,7 +12,7 @@ Suhail Tech, Global Tech Info, Reiker
 
 *Our Socials* 💭
 https://t.me/reikertechtools
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+https://whatsapp.com/channel/0029VasyE7u2v1Ijck0HDf2C
 
 
 *APPRECIATION* 🪄 
