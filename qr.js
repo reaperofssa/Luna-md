@@ -15,18 +15,18 @@ const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE ||  `
 *SESSION GENERATED SUCCESSFULY* ✅
 
-*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/GuhailTechInfo/ULTRA-MD
+*CREDITS* 🌟
+Suhail, Global Tech Info, Reiker
 
-*Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/GlobalBotInc
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+*OUR SOCIALS* 💭
+https://t.me/reikertechtools
+https://whatsapp.com/channel/0029VasyE7u2v1Ijck0HDf2C
 
 
-*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/GlobalTechInfo
+*APPRECIATIONS* 🪄 
+THANKS FOR CHOOSING LUNA XPP
 
-*ULTRA-MD--WHATTSAPP-BOT* 🥀
+*LUNA-XP--WHATTSAPP-BOT* 🥀
 `
 
 
